@@ -1,4 +1,6 @@
-body {
+#content {
+    position: relative;
+    top:90px;
     display: grid;
     justify-content: center;
 }
@@ -6,4 +8,23 @@ body {
 #logo {
     width: 272px;
     height: auto;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: block;
+    padding: 15px;
+   
+}
+
+#profile-pic {
+    border-radius: 50%;
 }
