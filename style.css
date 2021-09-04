@@ -1,0 +1,9 @@
+body {
+    display: grid;
+    justify-content: center;
+}
+
+#logo {
+    width: 272px;
+    height: auto;
+}
