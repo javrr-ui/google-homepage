@@ -85,7 +85,7 @@ input[type=text]:hover {
 
 @media (max-width: 800px) {
     form input[type=text] {
-        width: 80%;
+        width: 85%;
     }
     footer {
         flex-direction: column;
